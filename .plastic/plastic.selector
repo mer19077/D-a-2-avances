@@ -1,4 +1,0 @@
-repository "Globo Aventurero@p32mejum@cloud"
-  path "/"
-    br "/main"
-    co "/main"
